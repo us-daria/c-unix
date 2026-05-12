@@ -1,0 +1,5 @@
+/.vscode
+/script_debug.sh
+build/
+__pycache__/
+/.venv
